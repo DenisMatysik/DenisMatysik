@@ -11,17 +11,19 @@
 
 ### I'm a FrontEnd Developer
 
-- I loke to write code
+- I like to write code
+- I am constantly learning new things
+
 
 ### Languages and Tools
 
 <div>
-    <img align="left" alt="React" width="50px" src="./assets/logo/react.png">
-    <img align="left" alt="HTML5" width="40px" src="./assets/logo/html-5.png">
-    <img align="left" alt="CSS3" width="40px" src="./assets/logo/css-3.png">
-    <img align="left" alt="JavaScript" width="40px" src="./assets/logo/js-file.png">
+    <img align="left" alt="React" width="50px" heigth="50px" src="./assets/logo/react.png">
+    <img align="left" alt="HTML5" width="40px" heigth="50px" src="./assets/logo/html-5.png">
+    <img align="left" alt="CSS3" width="40px" heigth="50px" src="./assets/logo/css-3.png">
+    <img align="left" alt="JavaScript" width="40px" heigth="50px" src="./assets/logo/js-file.png">
+    <img align="left" alt="VScode" width="40px" heigth="50px" src="./assets/logo/visual-studio.png">
 </div>
-<br />
 <br />
 <br />
 

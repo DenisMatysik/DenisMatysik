@@ -1,5 +1,8 @@
-<img width="100px" src="./assets/yC.gif">
-<img width="100px" src="./assets/3nRK.gif">
+<div>
+    <img width="100px" src="./assets/yC.gif">
+    <img width="100px" src="./assets/3nRK.gif">
+</div>
+
 
 
 

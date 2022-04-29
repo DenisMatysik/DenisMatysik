@@ -34,6 +34,8 @@
 
 
 <br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisMatysik)]
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisMatysik&layout=compact)](https://github.com/DenisMatysik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisMatysik&layout=compact)]

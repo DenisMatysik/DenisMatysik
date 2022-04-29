@@ -31,9 +31,9 @@
 [telegramm]: https://t.me/qwerty_669
 [gmail]: denismatysik@gmail.com
 
+### Stats:
 <br/>
 <br/>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisMatysik&layout=compact)
 <br/>

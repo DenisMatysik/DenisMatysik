@@ -13,10 +13,13 @@
 
 ### Languages and Tools
 
-<img align="left" alt="React" width="40px" src="./assets/logo/react.png">
-<img align="left" alt="HTML5" width="40px" src="./assets/logo/html.png">
-<img align="left" alt="CSS3" width="40px" src="./assets/logo/css.png">
-<img align="left" alt="JavaScript" width="40px" src="./assets/logo/js.png">
+<div>
+    <img align="left" alt="React" width="50px" height="50px" src="./assets/logo/react.png">
+    <img align="left" alt="HTML5" width="40px" height="50px" src="./assets/logo/html.png">
+    <img align="left" alt="CSS3" width="40px" height="50px" src="./assets/logo/css.png">
+    <img align="left" alt="JavaScript" width="40px" height="50px" src="./assets/logo/js.png">
+</div>
+
 
 ### Connect with me:
 

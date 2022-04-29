@@ -1,6 +1,6 @@
 <div>
-    <img width="100px" src="./assets/yC.gif">
-    <img width="100px" src="./assets/3nRK.gif">
+    <img width="100px" heigth="100px" src="./assets/yC.gif">
+    <img width="100px" heigth="100px" src="./assets/3nRK.gif">
 </div>
 
 

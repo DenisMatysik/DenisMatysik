@@ -22,6 +22,8 @@
     <img align="left" alt="JavaScript" width="40px" src="./assets/logo/js-file.png">
 </div>
 <br />
+<br />
+<br />
 
 ### Connect with me:
 

@@ -32,6 +32,8 @@
 [gmail]: denismatysik@gmail.com
 
 <br/>
+<br/>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisMatysik&layout=compact)
 <br/>

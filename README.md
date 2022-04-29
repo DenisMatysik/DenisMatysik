@@ -32,10 +32,9 @@
 [gmail]: denismatysik@gmail.com
 
 <br/>
-<br/>
-<br/>
-
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisMatysik&show_icons=true&theme=onedark)
-<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisMatysik&layout=compact)
+<br/>
+
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisMatysik&show_icons=true&theme=tokyonight)
+<br/>

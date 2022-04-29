@@ -29,7 +29,7 @@
 
 [linkedin]: https://www.linkedin.com/in/denis-matysik/
 [telegramm]: https://t.me/qwerty_669
-[gmail]: denismatysik@gmail.com
+[gmail]: https://denismatysik@gmail.com
 
 <br/>
 <br/>

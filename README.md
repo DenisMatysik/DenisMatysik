@@ -11,6 +11,8 @@
 
 ### I'm a FrontEnd Developer
 
+- I loke to write code
+
 ### Languages and Tools
 
 <div>
@@ -19,9 +21,12 @@
     <img align="left" alt="CSS3" width="40px" src="./assets/logo/css-3.png">
     <img align="left" alt="JavaScript" width="40px" src="./assets/logo/js-file.png">
 </div>
+<br />
 
 ### Connect with me:
 
-<img align="left" alt="Linkedin" width="40px" src="">
-<img align="left" alt="Telegramm" width="40px" src="">
+[<img align="left" alt="Linkedin" width="40px" src="./assets/logo/linkedin.png">][linkedin]
+[<img align="left" alt="Telegramm" width="40px" src="./assets/logo/telegram.png">][telegramm]
 
+[linkedin]: https://www.linkedin.com/in/denis-matysik/
+[telegramm]: https://t.me/qwerty_669

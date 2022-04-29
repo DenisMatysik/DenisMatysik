@@ -1,10 +1,12 @@
 <div>
-    <img width="100px" heigth="100px" src="./assets/yC.gif">
+    <img width="100px" heigth="100px" src="./assets/1aEY.gif">
+    <img width="100px" heigth="100px" src="./assets/3jnj.gif">
     <img width="100px" heigth="100px" src="./assets/3nRK.gif">
+    <img width="100px" heigth="100px" src="./assets/5IPv.gif">
+    <img width="100px" heigth="100px" src="./assets/5Mys.gif">
+    <img width="100px" heigth="100px" src="./assets/6jq.gif">
+    <img width="100px" heigth="100px" src="./assets/yC.gif">
 </div>
-
-
-
 
 ### I'm a FrontEnd Developer
 

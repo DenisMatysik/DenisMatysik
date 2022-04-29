@@ -6,6 +6,7 @@
     <img width="100px" heigth="100px" src="./assets/5Mys.gif">
     <img width="100px" heigth="100px" src="./assets/6jq.gif">
     <img width="100px" heigth="100px" src="./assets/yC.gif">
+    <img width="100px" heigth="100px" src="./assets/VhdJ.gif">
 </div>
 
 

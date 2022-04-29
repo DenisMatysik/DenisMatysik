@@ -9,22 +9,17 @@
     <img width="100px" heigth="100px" src="./assets/VhdJ.gif">
 </div>
 
-
 ### I'm a FrontEnd Developer
 
-
 ### Languages and Tools
-![JS](https://img.shields.io/badge/-<JS>-<COLOR>)
 
-Follow Me
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<img align="left" alt="React" width="40px" src="./assets/logo/react.png">
+<img align="left" alt="HTML5" width="40px" src="./assets/logo/html.png">
+<img align="left" alt="CSS3" width="40px" src="./assets/logo/css.png">
+<img align="left" alt="JavaScript" width="40px" src="./assets/logo/js.png">
 
 ### Connect with me:
+
+<img align="left" alt="Linkedin" width="40px" src="">
+<img align="left" alt="Telegramm" width="40px" src="">
+

@@ -1,4 +1,5 @@
-Header
+<img width="100px" src="./assets/yC.gif">
+
 
 ### I'm a FrontEnd Developer
 

@@ -35,9 +35,7 @@
 <br/>
 <br/>
 
-[![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisMatysik)]
-<br/>
-<br/>
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisMatysik&show_icons=true&theme=radical)
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisMatysik)]

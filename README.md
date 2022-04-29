@@ -31,11 +31,13 @@
 [telegramm]: https://t.me/qwerty_669
 [gmail]: denismatysik@gmail.com
 
-
-
+<br/>
+<br/>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisMatysik)]
+[![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisMatysik)]
+<br/>
+<br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisMatysik&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisMatysik)]
